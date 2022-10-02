@@ -10,8 +10,41 @@
 
 ## 🤔 Who am I and where I come from  
 - I am a French high school student, who like to programs things in his free time😉  
-- I have began this passion at the age of 12. My first experience in this world was HTML. After that I quickly switch to making games with unity. I loved it so much that I decided to do a [summer school](https://www.isart.fr/summer-school/code-jeu-video-2d/).
+#### 🤩 <ins>My beginnings</ins>
+- I have began this passion at the age of 12 (2017). My first experience in this world was HTML/PHP/CSS. After that I quickly switch to making games with unity in C#. I loved it so much that I decided to do a [summer school](https://www.isart.fr/summer-school/code-jeu-video-2d/). After that I stuck a bit with video games but felt quickly bored and wanting to learn new things but didn't really knowing what. I was young and liked more playing games then making some. But during lock down I started to interest my self again to programming.
+#### ⛏🧱 <ins>Minecraft</ins>
+- One day as I was playing Minecraft I saw a group of people searching a programmer for their server (if don't know what a server is, it's a place were players can play together) and thot to my self I know who to code in C# it will be easy for my to code in java (they are very similar). And that's how I joined [Helevtis](http://play.helvetis.net/helvetis/index.html)
+#### 🥰 <ins>Helvetis</ins>
+- I joined this project at the begging of may 2020 and it's still going! 😄  
+- In this project we were 5: Wrench: the system admin; Koordan: the builder; Sweet: the organizer; Clim: the modarator; and me!
+- Our goal with this server was to attract as much players.
+- After joining this project I quickly become Administrator and managed the server with these 4 complete stranger. I also learned how to attract players this not only gave me the role of programmer but also community manager and more generaly administrator.
+- Through out these years I have met a lot of people from all over the world thank to this project, some were nice some not so...
+- This project really means a lot to me these 4 stranger became my online familly. We were so close that we even met in real life! 🥳
+- Thank to this project I learn java and especially Spigot library. I also learned SLQ and how to manage data bases.
+#### ![spigot-og](https://user-images.githubusercontent.com/46197750/193434448-f0ee923c-6e06-4322-aac0-04185cffb521.png) <ins>[SpigotMC](https://www.spigotmc.org)</ins>
+- SpigotMC is a forum for related stuff to Minecraft and espacially plugins (a plugin is an extention of the original game)
+<!---
+- On this forum I sold my knowledge 
+- Now I am selling plugins
+!--->
+#### 🏖️ <ins>New horizon</ins>
+- After sitcking to java for more that 2 years I wanted to experience new things!
+<!---
+Stage online:
+Learned new language (Go)
+AI
+Assembly Language
 
+Ecole 42
+C
+
+Then:
+Embeded sys
+Rust <3
+
+NOW
+!--->
 
 ## 🛠️ What I know how to use
 ### 👨‍💻 Programming languages
@@ -61,42 +94,7 @@ I have done many things. I realy like to test new things.
 It's a place where you can find information about me 👀 and what I am doing!  
 
 
-## Personal information
-
-To give a quick summary I am a French 🇫🇷 high school student 📚   
-
-I am self-taught programmer and developper 👨‍💻.  
-
-
-## But what do I actually do on internet?
-
-
-I write code for a lot of different 
-
-
-
-But in what language   
-
-
-Who you are and what you’re doing
-
-
-
-How you got there
-
-
-Where you’re looking to go next
-
-  
-1. What are you currently doing
-
-2. what aspects are you most passionate about and why? 
-
-3. What do you consider some of your biggest professional and personal accomplishments?
-
-4. What are you looking for right now? 
-
-
+1. Where you’re looking to go next
 
 - 📫 How to reach me Discord : joschma#9846 OR on spigotmc.org: https://www.spigotmc.org/members/joschma.956334/
 
