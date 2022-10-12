@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Self-taught+developer+from+France;Always+learning+new+thingss&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Self-taught+developer+from+France;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 ## 🤔 Who am I and where I come from  
@@ -30,10 +30,10 @@
 Here is a video:
 [<img src="https://user-images.githubusercontent.com/46197750/175769243-8a5149ab-5d08-45f7-a608-0d7f89154e45.png" width="300">](https://www.youtube.com/watch?v=zZoOd7UQXkU)
 
-#### 🏖️ <ins>New horizon</ins>
+#### 🏖️ <ins>New horizons</ins>
 - After developing mostly in **Java** for more that 2 years, I wanted to experience new things! And started to develop small personal modules in **Go, AI, Assembly Language, C, Embedded systems, Rust**.  
 
-## 🛠️ What I know how to use
+## 🛠️ Technical skills
 ### 👨‍💻 Programming languages
 <p>
 <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
