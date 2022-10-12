@@ -12,12 +12,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Self-taught+Franco-German+developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=20&pause=1000"></a>
 </p>
 
-## 🤔 Who am I and where I come from  
+## 🤔 Who I am and where I come from  
 - I am a Franco-German high school student, who likes to code during his free time😉  
 #### 🤩 <ins>My beginnings</ins>
 - My passion for coding started early, at the age of 12 (2017). My first experience was **HTML/PHP/CSS**. After that, I quickly switched to developing games with **Unity** in **C#**. I loved it so much that I decided to attend the Isart [summer school](https://www.isart.fr/summer-school/code-jeu-video-2d/) during which I have developed my first video game. Then, I experienced more with games but felt quickly bored and wanted to learn new things... but didn't really know what! I was young and liked playing games more than making some. Lockdown offered a lot of free time and it’s when I started diving deeply into serious programming. 
 #### ⛏🧱 <ins>Minecraft</ins>
-- One day as I was playing **Minecraft**, I noticed a group of gamers looking for a programmer to work on their server (if don't know what a server is, it's a place where people can play together) and thought to myself “I already know how to code in C#, it will be easy for me to learn Java”. And that's how I joined [Helevtis](http://play.helvetis.net/helvetis/index.html)
+- One day as I was playing **Minecraft**, I noticed a group of gamers looking for a programmer to work on their server (if you don't know what a server is, it's a place where people can play together) and thought to myself “I already know how to code in C#, it will be easy for me to learn Java”. And that's how I joined [Helvetis](http://play.helvetis.net/helvetis/index.html)
 #### 🥰 <ins>Helvetis</ins>
 - I joined this project at the beginning of may 2020 and it's still going on! 😄  
 - In this team, we are 5: Wrench: the system admin; Koordan: the builder; Sweet: the organizer; Clim: the modarator; and me: the developer!  
