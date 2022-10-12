@@ -53,7 +53,7 @@ Here is a video:
 <a href="#"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+### 💻 Softwares and tools
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Eclispe" src="https://img.shields.io/badge/-eclipse-purple?logo=eclipse&logoColor=white"></a>
