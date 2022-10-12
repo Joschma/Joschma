@@ -9,11 +9,11 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Self-taught+developer+from+France;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Self-taught+Franco-German+developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=20&pause=1000"></a>
 </p>
 
 ## 🤔 Who am I and where I come from  
-- I am a French high school student, who likes to code during his free time😉  
+- I am a Franco-German high school student, who likes to code during his free time😉  
 #### 🤩 <ins>My beginnings</ins>
 - My passion for coding started early, at the age of 12 (2017). My first experience was **HTML/PHP/CSS**. After that, I quickly switched to developing games with **Unity** in **C#**. I loved it so much that I decided to attend the Isart [summer school](https://www.isart.fr/summer-school/code-jeu-video-2d/) during which I have developed my first video game. Then, I experienced more with games but felt quickly bored and wanted to learn new things... but didn't really know what! I was young and liked playing games more than making some. Lockdown offered a lot of free time and it’s when I started diving deeply into serious programming. 
 #### ⛏🧱 <ins>Minecraft</ins>
