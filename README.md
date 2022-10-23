@@ -25,11 +25,11 @@
 - After joining this project I quickly became **Administrator**. The experience of meeting people randomly on the internet and creating a team project without knowing them at all is still stunning for me. This made me learn not only how to attract players but also gave me the role of a professional programmer and community manager.  
 - Throughout these years I have met a lot of gamers from all over the world. Without this project none of these encounters could have been possible. Some were nice some not so...  
 - Helvetis really means a lot to me. And these 4 strangers quickly became my online family. We were so close that we even met in real life! 🥳  
-- Thanks to this project, I learned Java and discovered the **Spigot** library. I also learned **SLQ** and how to manage databases.
+- Thanks to this project, I learned Java and discovered the **Spigot** library. I also learned **SQL** and how to manage databases.
 #### ![spigot-og](https://user-images.githubusercontent.com/46197750/193434448-f0ee923c-6e06-4322-aac0-04185cffb521.png) <ins>[SpigotMC](https://www.spigotmc.org)</ins>
 - SpigotMC is a forum around Minecraft, where you can find many plugins (a plugin is an original game extension)  
 - On this forum I [sold](https://www.spigotmc.org/threads/colsed-experienced-developer-affordable-easy-to-use-fully-configurable-plugins.517832/) on-demand plugins
-- Now, I am selling a Block Party plugin. Here is my online store:   
+- Now, I am selling a Block Party plugin for 19.99€ and I have sold approximately 70. Here is my online store:   
 [![StorePage](https://user-images.githubusercontent.com/46197750/195171030-43dc7768-c752-42fc-b419-53df8f1193bf.png)](https://www.spigotmc.org/resources/yma-block-party-with-music-1-13-1-19.98473/)
 Here is a video:
 [<img src="https://user-images.githubusercontent.com/46197750/175769243-8a5149ab-5d08-45f7-a608-0d7f89154e45.png" width="300">](https://www.youtube.com/watch?v=zZoOd7UQXkU)
