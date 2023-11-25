@@ -34,6 +34,9 @@
 Here is a video:
 [<img src="https://user-images.githubusercontent.com/46197750/175769243-8a5149ab-5d08-45f7-a608-0d7f89154e45.png" width="300">](https://www.youtube.com/watch?v=zZoOd7UQXkU)
 
+#### 📟 <ins>Embedded System</ins>
+- I am learning embedded system with a Raspberry Pi Pico in rust!
+
 #### 🏖️ <ins>New horizons</ins>
 - After developing mostly in **Java** for more that 2 years, I wanted to experience new things! And started to develop small personal modules in **Go, AI, Assembly Language, C, Embedded systems, Rust**.  
 
