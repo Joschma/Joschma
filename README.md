@@ -13,7 +13,7 @@
 </p>
 
 ## 🤔 Who I am and where I come from  
-- I am a Franco-German high school student, who likes to code during his free time😉  
+- I am a Franco-German dual degree student in Engineering & Design at CY Tech in France, who likes to code during his free time😉  
 #### 🤩 <ins>My beginnings</ins>
 - My passion for coding started early, at the age of 12 (2017). My first experience was **HTML/PHP/CSS**. After that, I quickly switched to developing games with **Unity** in **C#**. I loved it so much that I decided to attend the Isart [summer school](https://www.isart.fr/summer-school/code-jeu-video-2d/) during which I have developed my first video game. Then, I experienced more with games but felt quickly bored and wanted to learn new things... but didn't really know what! I was young and liked playing games more than making some. Lockdown offered a lot of free time and it’s when I started diving deeply into serious programming. 
 #### ⛏🧱 <ins>Minecraft</ins>
